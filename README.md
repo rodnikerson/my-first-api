@@ -5,9 +5,9 @@
 Criada como um dos projetos de back-end do bootcamp Labenu, essa API cadastra, edita e deleta usuários e produtos.
 
 ## Índice
-- <a href="#func">Funcionalidades do projeto</a>
-- <a href="#howto">Como rodar este projeto</a>
-- <a href="#tech">Tecnologias Utilizadas</a>
+- <a hef="#func">Funcionalidades do projeto</a>
+- <a hef="#howto">Como rodar este projeto</a>
+- <a hef="#tech">Tecnologias Utilizadas</a>
 
 <hr/>
 
